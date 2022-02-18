@@ -15,6 +15,6 @@ Run index.html to play.
 
 ## Gameplay
 <img src="game1.gif" alt="MathGame!" width="80%"/>
-<img src="game2.gif" alt="MathGame!" width="80%"/>
+<img src="game2.png" alt="MathGame!" width="80%"/>
 
 
