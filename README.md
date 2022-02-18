@@ -14,5 +14,5 @@ Integrated JavaScript to manipulate DOM and display answers.
 Run index.html to play.
 
 ## Gameplay
-<img src="game.gif" alt="UML!" width="80%"/>
+<img src="game.gif" alt="MathGame!" width="80%"/>
 
