@@ -5,6 +5,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
+## Deployed on GH-Pages
+https://developer-soni.github.io/Maths-Game-JS/ 
+
 ## Description
 I have created a Simple Maths Game using Javascript and basic HTML and CSS. 
 The game starts with a timer for 60 seconds and the score increases as you keep selecting the right answers. 
